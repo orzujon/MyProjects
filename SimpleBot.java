@@ -1,3 +1,7 @@
+//In this bot asks name of an user and outputs greetings using the input.
+//Using special calculation the bot will guesses the users age 
+//However, this bot can count from 0 to any positive integer number 
+
 import java.util.Scanner;
 
 public class SimpleBot{
